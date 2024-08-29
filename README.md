@@ -28,7 +28,9 @@ step 8.stop
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
+
 Developed by: VELLACHI TILAK
+
 RegisterNumber: 212223240172  
 */
 
