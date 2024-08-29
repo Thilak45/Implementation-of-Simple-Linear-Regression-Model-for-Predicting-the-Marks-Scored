@@ -24,7 +24,6 @@ step 7.Compare the graphs and hence we obtained the linear regression for the gi
 
 step 8.stop
 
-
 ## Program:
 ```
 /*
