@@ -23,7 +23,6 @@ step 6.Predict the regression for marks by using the representation of the graph
 step 7.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 step 8.stop
-
 ## Program:
 ```
 /*
@@ -91,5 +90,5 @@ print("RMSE= ",rmse)
 ## Training Set:
 ![image](https://github.com/user-attachments/assets/eae8ee8f-f4bc-466a-a4f1-b7d464efe8e0)
 ![image](https://github.com/user-attachments/assets/185ead62-081f-4570-a47f-1ab80015077e)
-## Result:
+## Result: 
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
